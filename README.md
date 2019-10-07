@@ -1,7 +1,14 @@
 # Cuckcoo_search_Optimaation
-This code find the optimum location of a Capacitor in a IEEE standard 33 bus system. 
-It is based on the Nature-inspired optimiation algorithm; Cuckoo search.
+# Optimization
+% -----------------------------------------------------------------
+% This code find Optimal location of Capacitor in IEEE Standard Radial
+% Distribution Network
+% Using Cuckoo search Optimization Algorithm   
+% Programmed by Joel Olayemi at Dextan Solutions
+% email: dextansolutions@gmail.com
+% Phone: 2349034859219
+% Programming dates: August 2019 
 
-The pulished result is inside html folder
+Already published result can be found inside HTML folder
 
-By Joel Olayemi of Dextan solutions. 
+Please Run RealPSOPower.m
