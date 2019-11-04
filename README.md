@@ -12,3 +12,5 @@
 Already published result can be found inside HTML folder
 
 Please Run RealPSOPower.m
+
+To see the published Result, please open the pdf file "CodeResult"
